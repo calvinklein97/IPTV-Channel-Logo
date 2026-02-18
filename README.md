@@ -1,1 +1,3 @@
-# IPTV-Channel-Logo
+# IPTV-Channel-Logos
+
+personal collection of channel logos for use with IPTV
